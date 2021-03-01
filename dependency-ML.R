@@ -46,8 +46,8 @@
 # if(!require("qgraph")) {install.packages("qgraph")}
  if(!require("corrplot")) {install.packages("corrplot")}
  if(!require("RColorBrewer")){install.packages("RColorBrewer")}
-# if(!require("rfm")) {install.packages("rfm")}
-# if(!require("lubridate")) {install.packages("lubridate")}
+ if(!require("rfm")) {install.packages("rfm")}
+ if(!require("lubridate")) {install.packages("lubridate")}
 # if(!require("ggbiplot")) {install_github("vqv/ggbiplot")}
 # if(!require("plyr")) {install.packages("plyr")}
 # if(!require("scales")) {install.packages("scales")}
